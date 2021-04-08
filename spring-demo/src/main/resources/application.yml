@@ -1,0 +1,1 @@
+spring.data.mongodb.uri: mongodb://root:example@localhost:27117/users?authSource=admin
